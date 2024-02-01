@@ -1,4 +1,5 @@
 {
+  "homepage": "https://<Username>.github.io/<Repository-name>",
   "name": "prac1",
   "version": "0.1.0",
   "private": true,
